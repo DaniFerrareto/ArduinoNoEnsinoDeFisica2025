@@ -13,4 +13,4 @@ Serão gerados PDFs a partir de ambos os linkd. A apresentação mais completa e
 
 Estamos em processo de desenvolvimento da apresentação _script_. Assim que finalizar, será disponibilizado em PDF.
 
-Havendo sentimentos que faltaram maiores informações, sugestões, comentários, dúvidas, comunique com a gente pelos contatos, e estaremos adicionando maiores informações tanto no link da apresentação quanto no seu respectivo PDF. Recomendo o contato com os emails _usp_ e _if.usp_.
+Havendo sentimentos de que faltaram maiores informações, sugestões, comentários, dúvidas, comunique com a gente pelos contatos, e estaremos adicionando maiores informações tanto no link da apresentação quanto no seu respectivo PDF. Recomendo o contato com os emails _usp_ e _if.usp_.
