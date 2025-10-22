@@ -4,10 +4,10 @@ Repositório do GitHub dedicado a armazenar e organizar informações oferecidas
 Contatos e Mais Informações:
 - daniel.ferrareto@usp.br
 - danielf@if.usp.br
-- Semanda da Física de 2025: <https://portal.if.usp.br/ifusp/pt-br/evento/semana-da-física>
+- [Semanda da Física de 2025](<https://portal.if.usp.br/ifusp/pt-br/evento/semana-da-física>)
 - Link do Kit Arduino e da sua [Apostila](<https://github.com/DaniFerrareto/ArduinoNoEnsinoDeFisica2025/blob/main/Apostila-Eletrogate_-_Kit_Arduino_Iniciante.pdf>).
-- Link da Apresentação no Canva: <https://www.canva.com/design/DAG2iOYbbmE/ZQxGWUSTiDCog5yeBYYRSA/edit?utm_content=DAG2iOYbbmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
-- Link da Apresentação _Script_ no Canva (contendo mais informações): <https://www.canva.com/design/DAG1-HYg07E/1C-joUiqXUqAl4sVGhnmjw/edit?utm_content=DAG1-HYg07E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
+- Link da [Apresentação](<https://www.canva.com/design/DAG2iOYbbmE/ZQxGWUSTiDCog5yeBYYRSA/edit?utm_content=DAG2iOYbbmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>) no Canva.
+- Link da [Apresentação _Script_](<https://www.canva.com/design/DAG1-HYg07E/1C-joUiqXUqAl4sVGhnmjw/edit?utm_content=DAG1-HYg07E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>) no Canva (contendo mais informações).
 
 Serão gerados PDFs a partir de ambos os linkd. A apresentação mais completa e com mais informações é a apresentação _script_ que é também um roteiro do que foi dito durante a apresentação.
 
