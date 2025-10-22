@@ -9,7 +9,7 @@ Contatos e Mais Informações:
 - Link da [Apresentação](<https://www.canva.com/design/DAG2iOYbbmE/ZQxGWUSTiDCog5yeBYYRSA/edit?utm_content=DAG2iOYbbmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>) no Canva.
 - Link da [Apresentação _Script_](<https://www.canva.com/design/DAG1-HYg07E/1C-joUiqXUqAl4sVGhnmjw/edit?utm_content=DAG1-HYg07E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>) no Canva (contendo mais informações).
 
-Serão gerados PDFs a partir de ambos os linkd. A apresentação mais completa e com mais informações é a apresentação _script_ que é também um roteiro do que foi dito durante a apresentação.
+Serão gerados PDFs a partir de ambos os links (Apresentações [Normal](<https://www.canva.com/design/DAG2iOYbbmE/ZQxGWUSTiDCog5yeBYYRSA/edit?utm_content=DAG2iOYbbmE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>) e [_Script_](<https://www.canva.com/design/DAG1-HYg07E/1C-joUiqXUqAl4sVGhnmjw/edit?utm_content=DAG1-HYg07E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>)). A apresentação mais completa e com mais informações é a apresentação _script_ que é também um roteiro do que foi dito durante a apresentação.
 
 Estamos em processo de desenvolvimento da apresentação _script_. Assim que finalizar, será disponibilizado em PDF.
 
